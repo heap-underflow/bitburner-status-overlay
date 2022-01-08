@@ -20,7 +20,7 @@ In the spirit of the game, please fork this and do whatever you want with it.  I
 
 * **My current overlay, with a few more bars for various things:**
 
-![current overlay](img/current-overlay)
+![current overlay](img/current-overlay.png)
 
 ## Controlling status bars from external/additional scripts:
 For things that you always want to see, the code for updating the bars should probably go in your
